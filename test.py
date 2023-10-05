@@ -2,9 +2,15 @@ print ("Hello world")
 print("Global")
 print("Arshad is a goat")
 
+from select import select
 import unittest
-def add_numbers(a,b):
-    return a + b 
+from unittest import result
+import Funtion
+
+# The function to be tested
+import Funtion
+
+
 
 class TestFunction(unittest.TestCase):
     
